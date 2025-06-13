@@ -1,6 +1,8 @@
-# Global Superstore Analysis  
+# Global Superstore Analysis    
+
 > Tools used: Power BI, Power Query, DAX  
 > Data Year: 2014
+
 The Global Superstore  Project is a comprehensive business intelligence case study built around a large global retail dataset. The dataset captures transactional and operational data — including order dates, customer info, shipping costs, product categories, and profit figures — across 147 countries and over 10,000 products.
 
 The goal of this project was to apply core data analytics skills—such as data cleaning, modeling, visualization, and insight generation—to help Global Superstore identify trends, evaluate performance across regions, and propose actionable recommendations to increase profitability and efficiency.
@@ -61,5 +63,7 @@ The goal of this project was to apply core data analytics skills—such as data 
 
 
 ## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Olajuwonhikmat/Global-Superstore-Analysis-/blob/main/Global%20superstore%20dashboard%201.PNG)## 🖼️
 
 ![Dashboard Screenshot](dashboard.png)
