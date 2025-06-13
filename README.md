@@ -62,8 +62,8 @@ The goal of this project was to apply core data analytics skills—such as data 
 
 
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Olajuwonhikmat/Global-Superstore-Analysis-/blob/main/Global%20superstore%20dashboard%201.PNG)## 🖼️
+![Dashboard Screenshot](https://github.com/Olajuwonhikmat/Global-Superstore-Analysis-/blob/main/Global%20superstore%20dashboard%201.PNG)
 
 ![Dashboard Screenshot](https://github.com/Olajuwonhikmat/Global-Superstore-Analysis-/blob/main/Global%20superstore%20dashboard%202.PNG)
